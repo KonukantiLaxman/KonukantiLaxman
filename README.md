@@ -1,11 +1,15 @@
+# 🧠 Python Data Analytics GitHub Profile
+
+<h1 align="center">Hi 👋, I'm Laxman Konukati</h1>
+<h3 align="center">🔍 Passionate Python Developer & Data Analytics Enthusiast</h3>
+
 ## 👨‍💻 About Me
 🧠 I'm a passionate technologist transitioning my strong foundation as a Full Stack Developer (Core Java, Spring Boot) into the world of Python Data Analytics.
-
-📊 I specialize in leveraging data tools like Pandas, NumPy, Matplotlib, and Power BI to transform raw data into clear, meaningful insights.
-
-💻 My experience spans both front-end and robust back-end development, including implementing RESTful APIs and managing databases like MySQL. I apply this strong software engineering discipline to creating clean, scalable data pipelines.
-
-💡 I am keenly interested in applying Machine Learning and AI-driven solutions, as demonstrated by my project on Cyberbullying Detection using Deep Learning Neural Networks (DLNNs).
+🎓 I’m a **Python & Data Analytics** learner with interest in **data visualization, machine learning, and automation**
+- 📊 I love turning raw data into meaningful insights
+- 🧠 Currently exploring **Pandas, NumPy, Matplotlib, Seaborn, and Power BI**
+- 💡 Open to collaborate on **data analytics and automation projects**
+- 📫 Reach me at **laxmankonukati93@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konukati-laxman-6856092a5/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kl752008@gmail.com) 
