@@ -48,6 +48,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KonukantiLaxman&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 📊 Data Analytics Skills
 - **Data Handling:** Pandas, NumPy
 - **Visualization:** Matplotlib, Seaborn, Plotly
@@ -65,4 +66,4 @@
 • Certification of ”Published research paper titled ’Silent saviour: Deep Learning Neural Network for Cyberbulling
   Detection in Social Media’ in the International Journal of Basic and Applied Research”.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
