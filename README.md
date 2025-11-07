@@ -3,8 +3,7 @@
 <h3 align="center">🔍 Passionate Python Developer & Data Analytics Enthusiast</h3>
 
 ## 👨‍💻 About Me
-🧠 I'm a passionate technologist transitioning my strong foundation as a Full Stack Developer (Core Java, Spring Boot) into the world of Python Data Analytics.
-🎓 I’m a **Python & Data Analytics** learner with interest in **data visualization, machine learning, and automation**
+🎓 I'm a passionate technologist transitioning my strong foundation as a Full Stack Developer (Core Java, Spring Boot) into the world of **Python & Data Analytics** learner with interest in **data visualization, machine learning, and automation**
 - 📊 I love turning raw data into meaningful insights
 - 🧠 Currently exploring **Pandas, NumPy, Matplotlib, Seaborn, and Power BI**
 - 💡 Open to collaborate on **data analytics and automation projects**
