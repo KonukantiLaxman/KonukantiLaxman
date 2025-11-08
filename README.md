@@ -10,8 +10,9 @@
 - 📫 Reach me at **laxmankonukati93@gmail.com**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konukati-laxman-6856092a5/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kl752008@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konukati-laxman-6856092a5/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kl752008@gmail.com)[![GitHub](https://img.shields.io/badge/Github-%230077B5.svg?logo=github&logoColor=black)](https://github.com/KonukantiLaxman/) 
 
+ 
 # 💻 Tech Stack:
 <table align="center">
   <tr>
