@@ -1,6 +1,18 @@
 
-<h1 align="center">Hi 👋, I'm Laxman Konukati</h1>
-<h3 align="center">🔍 Passionate Python Developer & Data Analytics Enthusiast</h3>
+# 👋✨ Hi there, I'm **Laxman Konukati**!
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines=Software+Developer;AI+Researcher;Full-Stack+Developer;Machine+Learning+Engineer;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/konukati-laxman-6856092a5/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/KonukatiLaxman)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:laxmankonukati@gmail.com)
+
+</div>
+
 
 ## 👨‍💻 About Me
 🎓 I'm a passionate **Python & Data Analytics** learner with interest in **data visualization, machine learning, and automation**
@@ -9,10 +21,8 @@
 - 💡 Open to collaborate on **data analytics and automation projects**
 - 📫 Reach me at **laxmankonukati93@gmail.com**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konukati-laxman-6856092a5/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kl752008@gmail.com)[![GitHub](https://img.shields.io/badge/Github-%230077B5.svg?logo=github&logoColor=black)](https://github.com/KonukantiLaxman/) 
+---
 
- 
 # 💻 Tech Stack:
 <table align="center">
   <tr>
@@ -47,14 +57,7 @@
   </tr>
 </table>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KonukantiLaxman&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KonukantiLaxman&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KonukantiLaxman&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=KonukantiLaxman&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 🧠 Data Analytics Skills
 
@@ -70,6 +73,7 @@
 
 📘 **Reporting:** Jupyter Notebook, Google Colab
 
+---
 ### 🏆 Achievements & Certifications
 • Certification of completion of Python from Udemy.
 
@@ -79,4 +83,36 @@
 📄 Certification of ”Published research paper titled ’Silent saviour: Deep Learning Neural Network for Cyberbulling
   Detection in Social Media’ in the International Journal of Basic and Applied Research”.
 
+---
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KonukantiLaxman&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KonukantiLaxman&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KonukantiLaxman&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+[![](https://visitcount.itsvg.in/api?id=KonukantiLaxman&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🏆 **GitHub Trophies**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KonukantiLaxman&theme=onestar"/>
+</p>
+
+---
+
+## 📬 **Connect With Me**
+
+📧 [patnalasrikrishnasai@gmail.com](mailto:laxmankonukati93@gmail.com)  
+📞 [+91 7989574036](tel:+917989574036)   
+💼 [LinkedIn](https://www.linkedin.com/in/konukati-laxman-6856092a5/)  
+🐙 [GitHub](https://github.com/KonukatiLaxman)
+
+---
+
+<div align="center">
+
+⭐ *If you like my work, don’t forget to star my repositories!* 🌟  
