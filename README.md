@@ -18,11 +18,17 @@
 
 
 🎓 **B.Tech in Computer Science and Engineering** from **TKR College of Engineering and Technology (TKRC)** with a CGPA of **7.71**.  
+
 💡  passionate **Python & Data Analytics** learner with interest in **data visualization, machine learning, and automation**.
+
 📊 I love turning raw data into meaningful insights.
+
 🧠  Currently exploring **Pandas, NumPy, Matplotlib, Seaborn, and Power BI**.
+
 💡 Open to collaborate on **data analytics and automation projects**.
+
 🚀 Always curious, always learning — from building APIs to training AI models!.
+
 📫 Reach me at **laxmankonukati93@gmail.com**!
 
 ---
