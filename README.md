@@ -63,28 +63,29 @@
 
 ---
 
+## 💼 **Internships & Experience**
+
+| Role | Organization | Duration |
+|------|---------------|-----------|
+| 📊 **Junior Analytics Intern** | Vangrove Tech | Nov 2025 – Present |
+| 👨‍💻 **Java Developer Intern** | Elevate Labs | Sep 2025 – Nov 2025 |
+
+
 ### 🧠 Data Analytics Skills
 
-🧩 **Data Handling:** Pandas, NumPy
-
-📊 **Visualization:** Matplotlib, Seaborn, Plotly
-
-🗄️ **Databases:** MySQL, SQLite SQLite
-
-🤖 **Machine Learning (Basics):** Scikit-learn
-
-📈 **Dashboard Tools:** Power BI, Excel Analytics
-
-📘 **Reporting:** Jupyter Notebook, Google Colab
+🧩 **Data Handling:** Pandas, NumPy.\
+📊 **Visualization:** Matplotlib, Seaborn, Plotly.\
+🗄️ **Databases:** MySQL, SQLite SQLite.\
+🤖 **Machine Learning (Basics):** Scikit-learn.\
+📈 **Dashboard Tools:** Power BI, Excel Analytics.\
+📘 **Reporting:** Jupyter Notebook, Google Colab.
 
 ---
 ### 🏆 Achievements & Certifications
-• Certification of completion of Python from Udemy.
-
+• Certification of completion of Python from Udemy.\
 💻 Certified Full Stack Java Developer - Completed training in front-end, back-end, and database technlogies to
-  build end-to-end web applications.
-  
-📄 Certification of ”Published research paper titled ’Silent saviour: Deep Learning Neural Network for Cyberbulling
+  build end-to-end web applications.\
+  📄 Certification of ”Published research paper titled ’Silent saviour: Deep Learning Neural Network for Cyberbulling
   Detection in Social Media’ in the International Journal of Basic and Applied Research”.
 
 ---
