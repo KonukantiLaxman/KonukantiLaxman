@@ -13,7 +13,7 @@
 
 </div>
 
-
+---
 ## 👨‍💻 About Me
 
 
@@ -88,7 +88,7 @@
 | 📊 **Junior Analyist Intern** | Vangrove Tech | Nov 2025 – Present |
 | 👨‍💻 **Java Developer Intern** | Elevate Labs | Sep 2025 – Nov 2025 |
 
-
+---
 ### 🧠 Data Analytics Skills
 
 🧩 **Data Handling:** Pandas, NumPy.\
@@ -131,7 +131,7 @@
 
 ## 📬 **Connect With Me**
 
-📧 [patnalasrikrishnasai@gmail.com](mailto:laxmankonukati93@gmail.com)  
+📧 [laxmankonukati93@gmail.com](mailto:laxmankonukati93@gmail.com)  
 📞 [+91 7989574036](tel:+917989574036)   
 💼 [LinkedIn](https://www.linkedin.com/in/konukati-laxman-6856092a5/)  
 🐙 [GitHub](https://github.com/KonukatiLaxman)
