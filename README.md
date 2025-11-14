@@ -85,8 +85,10 @@
 • Certification of completion of Python from Udemy.\
 💻 Certified Full Stack Java Developer - Completed training in front-end, back-end, and database technlogies to
   build end-to-end web applications.\
-  📄 Certification of ”Published research paper titled ’Silent saviour: Deep Learning Neural Network for Cyberbulling
+📄 Certification of ”Published research paper titled ’Silent saviour: Deep Learning Neural Network for Cyberbulling
   Detection in Social Media’ in the International Journal of Basic and Applied Research”.
+💻 **Java Developer Intern** (Elevate Labs | Sep 2025 – Nov 2025 |)
+  
 
 ---
 
