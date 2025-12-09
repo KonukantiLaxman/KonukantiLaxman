@@ -85,7 +85,6 @@
 | Role | Organization | Duration |
 |------|---------------|-----------|
 | 📊 **Junior Analyist Intern** | Vangrove Tech | Nov 2025 – Present |
-| 👨‍💻 **Java Developer Intern** | Elevate Labs | Sep 2025 – Nov 2025 |
 
 ---
 ### 🧠 Data Analytics Skills
