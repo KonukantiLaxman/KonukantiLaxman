@@ -2,7 +2,7 @@
 # 👋✨ Hi there, I'm **Laxman Konukati**!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines=Python+Data+Analytics;;AI+Researcher;Full-Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines=Python+Data+Analytics;;AI+Researcher;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -58,13 +58,6 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-### 🧪 Data Processing / ETL
-<p align="left">
-  <img src="https://img.shields.io/badge/Apache%20Spark-E35A16?style=for-the-badge&logo=apache-spark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-FFB300?style=for-the-badge&logo=apache-hadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-</p>
 
 ### 🛠️ Tools
 <p align="left">
