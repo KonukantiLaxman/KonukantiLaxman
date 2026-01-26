@@ -84,7 +84,7 @@
 
 🧩 **Data Handling:** Pandas, NumPy.\
 📊 **Visualization:** Matplotlib, Seaborn, Plotly.\
-🗄️ **Databases:** MySQL, SQLite SQLite.\
+🗄️ **Databases:** MySQL, SQLite.\
 🤖 **Machine Learning (Basics):** Scikit-learn.\
 📈 **Dashboard Tools:** Power BI, Excel Analytics.\
 📘 **Reporting:** Jupyter Notebook, Google Colab.
