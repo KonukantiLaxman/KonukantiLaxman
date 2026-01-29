@@ -25,106 +25,15 @@
 🚀 Always curious, always learning — from building APIs to training AI models!.\
 📫 Reach me at **laxmankonukati93@gmail.com**!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
+## 💼 **Internships & Experience**
 
+| Role | Organization | Duration |
+|------|---------------|-----------|
+| 📊 **Junior Analyist Intern** | Vangrove Tech | Nov 2025 – Present |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 ## 🚀 **Tech Stack:**
 
 ## 🧠 Core Languages
@@ -172,11 +81,7 @@
 
 ---
 
-## 💼 **Internships & Experience**
 
-| Role | Organization | Duration |
-|------|---------------|-----------|
-| 📊 **Junior Analyist Intern** | Vangrove Tech | Nov 2025 – Present |
 
 ---
 ### 🧠 Data Analytics Skills
