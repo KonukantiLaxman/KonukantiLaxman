@@ -26,6 +26,21 @@
 📫 Reach me at **laxmankonukati93@gmail.com**!
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 🚀 **Tech Stack:**
 
 ## 🧠 Core Languages
