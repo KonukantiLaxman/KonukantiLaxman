@@ -126,6 +126,7 @@
 📞 [+91 7989574036](tel:+917989574036)   
 💼 [LinkedIn](https://www.linkedin.com/in/konukati-laxman-6856092a5/)  
 🐙 [GitHub](https://github.com/KonukatiLaxman)
+💼[Portfolio](https://laxman-konukati-portfolio.vercel.app/)
 
 
 ---
