@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 
-🎓 **B.Tech in Computer Science and Engineering** from **TKR College of Engineering and Technology (TKRC)** with a CGPA of **7.71**.\
+🎓 **B.Tech in Computer Science and Engineering** from **TKR College of Engineering and Technology (TKRC)**.\
 💡  passionate **Python & Data Analytics** learner with interest in **data visualization, machine learning, and automation**.\
 📊 I love turning raw data into meaningful insights.\
 🧠  Currently exploring **Pandas, NumPy, Matplotlib, Seaborn, and Power BI**.\
