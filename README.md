@@ -31,7 +31,7 @@
 
 | Role | Organization | Duration |
 |------|---------------|-----------|
-| 📊 **Junior Analyist Intern** | Vangrove Tech | Nov 2025 – Present |
+| 📊 **Junior Analyist Intern** | Vangrove Tech | Feb 2026 – Present |
 
 ---
 ## 🚀 **Tech Stack:**
