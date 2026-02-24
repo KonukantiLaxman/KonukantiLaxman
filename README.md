@@ -87,7 +87,7 @@
 ### 🧠 Data Analytics Skills
    **Core Language:** Python.\
 🧩 **Data Handling:** Pandas, NumPy.\
-📊 **Visualization:** Matplotlib, Seaborn, Plotly.\
+📊 **Visualization:** Matplotlib, Seaborn, Plotply.\
 🗄️ **Databases:** MySQL, SQL.\
 📈 **Dashboard Tools:** Power BI, Tableau, Excel Analytics.\
 📘 **Reporting:** Jupyter Notebook, Google Colab.
