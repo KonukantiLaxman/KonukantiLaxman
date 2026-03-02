@@ -20,7 +20,7 @@
 🎓 **B.Tech in Computer Science and Engineering** from **TKR College of Engineering and Technology Hyderabad (TKRC)**.\
 💡  passionate **Python with Data Analytics** learner with interest in **data visualization, machine learning, and automation**.\
 📊 I love turning raw data into meaningful insights.\
-🧠  Currently exploring **Pandas, NumPy, Matplotlib, Seaborn, and Power BI, Tableau**.\
+🧠  Experience in  **Pandas, NumPy, Matplotlib, Seaborn, and Power BI, Tableau**.\
 💡 Open to collaborate on **data analytics and automation projects**.\
 🚀 Always curious, always learning — from building APIs to training AI models!.\
 📫 Reach me at **laxmankonukati93@gmail.com**!
@@ -95,8 +95,9 @@
 ---
 ### 🏆 Achievements & Certifications
 • Certification of completion of Python from Udemy.\
-📄 Certification of ”Published research paper titled ’Silent saviour: Deep Learning Neural Network for Cyberbulling
+•  Certification of ”Published research paper titled ’Silent saviour: Deep Learning Neural Network for Cyberbulling
   Detection in Social Media’ in the International Journal of Basic and Applied Research”.\
+• Certification of Completion of Python with Data Analytics from ByteCode trainings\ 
   
 
 ---
@@ -112,13 +113,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
-## 🏆 **GitHub Trophies**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KonukantiLaxman&theme=onestar"/>
-</p>
-
----
 
 ## 📬 **Connect With Me**
 
