@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 
-🎓 **B.Tech in Computer Science and Engineering** from **TKR College of Engineering and Technology Hyderabad (TKRC)**.\
+🎓 **B.Tech in Computer Science and Engineering** from **TKR College of Engineering and Technology (TKRC)**.\
 💡  passionate **Python with Data Analytics** learner with interest in **data visualization, machine learning, and automation**.\
 📊 I love turning raw data into meaningful insights.\
 🧠  Experience in  **Pandas, NumPy, Matplotlib, Seaborn, and Power BI, Tableau**.\
